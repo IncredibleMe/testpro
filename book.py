@@ -3,6 +3,8 @@
 #kapoies dikes mou allages 
 #allages apo ton Alex
 
+#kati akoma mpla  mpla
+# kommatia apo ton Giwrgo
 class Book:
     def __init__(self, title, author):
         self.title = title
