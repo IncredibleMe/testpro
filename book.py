@@ -1,4 +1,8 @@
 #auti einai mia klasi gia to Book
+
+#kapoies dikes mou allages 
+#allages apo ton Alex
+
 class Book:
     def __init__(self, title, author):
         self.title = title
